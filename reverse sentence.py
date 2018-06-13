@@ -1,7 +1,7 @@
 # your code goes here
 # your code goes here
 # your code goes here
-alphabet = "app bat cat dollf girl"
+alphabet = input("Enter the string")
 data = alphabet.split() #split string into a list
 n=len(data)
 for i in range(n):
